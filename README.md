@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🌱 I’m trying to become a full stack engineer.  
+### ⚡ Front-end: React && Back-end: Spring Boot
 
 <!--
 **YuWeihung/YuWeihung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
