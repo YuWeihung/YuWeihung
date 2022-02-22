@@ -1,5 +1,5 @@
 ### 🌱 I'm trying to become a full stack developer.
-### 🔭 Front-end: React && Back-end: Spring Boot
+### 🔭 I’m currently learning Spring Boot and Vue.js. 
 
 <!--
 **YuWeihung/YuWeihung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
