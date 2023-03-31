@@ -1,5 +1,5 @@
 ### 🌱 I'm trying to become a full stack developer.
-### 🔭 I’m currently learning Spring and React. 
+### 🔭 I’m currently learning Java and React. 
 
 <!--
 **YuWeihung/YuWeihung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
