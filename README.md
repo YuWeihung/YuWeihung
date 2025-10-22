@@ -1,5 +1,4 @@
-### 🌱 I'm currently working on distributed machine learning.
-### 🔭 I'm also interested in Java backend development.
+### 🌱 I'm currently working on AI Infra.
 
 <!--
 **YuWeihung/YuWeihung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
